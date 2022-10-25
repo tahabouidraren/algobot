@@ -4,7 +4,7 @@ Algobot is a full blown Algorithm bot that uses 3 market leading trading starteg
 - Requirement:
 
 You need to have Python 3 installed in your OS
--Tested on python 3.8-
+[Tested on Python 3.8]
 
 and also :
 `pip3 install ccxt`

@@ -24,7 +24,7 @@ This bot is a full standalone bot that is capable of a lot of stuff
 
 In a nutshell :
 
-It takes your information at first and it connects to your Binance platform, after that it starts scanning all the currencies available in the Limit Market inside Binance (You can find them all inside the file `bin_symbols.csv` '366' Currency), then it randomly picks one and starts to scan it, The first trading strategy the bot uses is SMA, the second one is MRV or Mean Reversion, and last but not least is the Order Book Data, and if only all of them check out as correct or convenient to buy in this currency only then the bot will place the Limit Order.
+It takes your information at first and it connects to your Binance platform, after that it starts scanning all the currencies available in the Limit Market inside Binance (You can find them all inside the file `bin_symbols.csv` '366' Currency), then it randomly picks one and starts to scan it, The first trading strategy the bot uses is SMA, the second one is MRV or Mean Reversion, and last but not least is the Order Book Data, and if only all of them check out as correct or convenient to buy in this currency only then the bot will place the Limit Order and the Stop Loss (3% gain).
 
 ![Capture](https://user-images.githubusercontent.com/59410756/197873935-ab872039-134f-4905-9934-fe7d787443eb.PNG)
 

@@ -36,13 +36,13 @@ It takes your information at first and it connects to your Binance platform, aft
 
 - Side Note:
 
-This project took me aproxamtly 1 week from researching the startigies and applying them to python and the fusion between them and `ccxt`.
+This project took me approximately 1 week from researching the strategies and applying them to python and the fusion between them and `ccxt`.
 
-While trying out this bot I had a stable 10% pnl gain .
+While trying out this bot I had a stable 10% pnl gain.
 
 - Warning :
 
-Im not responsible in any losses you get from using my script , Use it at your own risk :)
+I'm not responsible for any losses you get from using my script, Use it at your own risk :)
 
 Signed : @ts._.taha
 

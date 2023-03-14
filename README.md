@@ -47,5 +47,5 @@ While trying out this bot I had a stable 10% pnl gain.
 
 I'm not responsible for any losses you get from using my script, Use it at your own risk :)
 
-Signed : @ts._.taha
+Signed : @tahabouidraren
 

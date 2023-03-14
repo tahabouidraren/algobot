@@ -9,7 +9,7 @@ from datetime import date, datetime, timezone, tzinfo
 import time, schedule
 
 print("********************************************")
-print("* All copyrights belong to @ts._.taha in IG*")
+print("* All copyrights belong to @tahabouidraren in IG*")
 print("********************************************")
 print("")
 print("Hello and Welcome to AlgoBot")

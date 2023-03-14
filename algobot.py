@@ -190,7 +190,7 @@ def script():
                 binance.create_limit_sell_order(symbol, amount, stop_price)
                 print(f'You just bought {amount} {symbol} by USDT!')
                 print("********************************************")
-                print("* All copyrights belong to @ts._.taha in IG*")
+                print("* All copyrights belong to @tahabouidraren in IG*")
                 print("********************************************")
                 print("SCRIPT [OFF]")
                 exit()
